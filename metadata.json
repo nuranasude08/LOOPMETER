@@ -1,0 +1,5 @@
+{
+  "name": "LoopMeter",
+  "description": "Smart recycling rewards platform. Track your impact, find machines, earn rewards, and save the planet.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
